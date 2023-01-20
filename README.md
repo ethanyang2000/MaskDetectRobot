@@ -1,9 +1,9 @@
 # MaskDetectRobot
 ## Introduction
-This is the group project of the course *Project of Electronic Circuits*，where we have five members: @ethanyang2000, @EmberFeathers, @jupwalker, @StarryChenx, @SebastianKang5. We developed an autonomous robot that could detect and warn people who do not wear masks. The architecture of our product can be found in fig.1.
-![Robot Architecture](https://github.com/ethanyang2000/MaskDetectRobot/blob/main/pics/arch.png)
-And the robot is shown as fig.2.
-![MaskDetectRobot](https://github.com/ethanyang2000/MaskDetectRobot/blob/main/pics/robot.png)
+This is the group project of the course *Project of Electronic Circuits*，where we have five members: @ethanyang2000, @EmberFeathers, @jupwalker, @StarryChenx, @SebastianKang5. We developed an autonomous robot that could detect and warn people who do not wear masks. The architecture of our product can be found in fig.1.  
+<div align=center><img src="[url](https://github.com/ethanyang2000/MaskDetectRobot/blob/main/pics/arch.png)" width="  "></div>
+And the robot is shown as fig.2.  
+<div align=center><img src="[url](https://github.com/ethanyang2000/MaskDetectRobot/blob/main/pics/robot.png)" width="  "></div>  
 We completed the design and implementation of the system, including analog circuits and digital systems. Our design of the system contains an Arduino-controlled car, a Raspberry-Pi-controlled camera,and a PC software. More techniqual details can be found in our [report](https://github.com/ethanyang2000/MaskDetectRobot/blob/main/report.pdf)
 ## Files
 ```
@@ -55,6 +55,5 @@ Run `raspicilent/raspiclient_final.py` on Raspberry-Pi
 Run `Server.ipynb` on PC  
 More details can be fould in our [report](https://github.com/ethanyang2000/MaskDetectRobot/blob/main/report.pdf)  
 And we made a video for presentation:
-<video id="video-sample" controls="" preload="none" poster="https://www.bilibili.com/video/BV1TB4y1N7X3">
-
+<iframe src="//player.bilibili.com/player.html?aid=589069782&bvid=BV1TB4y1N7X3&cid=366877027&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
