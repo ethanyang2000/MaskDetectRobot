@@ -60,6 +60,6 @@ Run `Server.ipynb` on PC
 More details can be fould in our [report](https://github.com/ethanyang2000/MaskDetectRobot/blob/main/report.pdf)  
 And we made a video for presentation:  
 
-<iframe src="http://player.bilibili.com/player.html?aid=589069782&bvid=BV1TB4y1N7X3&cid=366877027&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=589069782&bvid=BV1TB4y1N7X3&cid=366877027&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
